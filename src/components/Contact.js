@@ -20,9 +20,9 @@ const Contact = (props) => (
                         <textarea name="message" id="message" rows="6"></textarea>
                     </div>
                                                   
-                    <div className="field">
+                   
                         <div data-netlify-recaptcha="true"></div>
-                    </div>                                
+                                                   
                    
                     <ul className="actions">
                         <li><input type="submit" value="Send Message" className="special" /></li>
