@@ -21,7 +21,7 @@ const Contact = (props) => (
                     </div>
                                                   
                    
-                        <div data-netlify-recaptcha="true"></div>
+                        <div data-netlify-recaptcha="true" className="field"></div>
                                                    
                    
                     <ul className="actions">
